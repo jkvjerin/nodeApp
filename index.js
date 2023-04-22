@@ -5,3 +5,6 @@ function fnlog(param) {
 // Path: index.js
 // call fnlog
 fnlog('hello world');
+
+// error  widdow is not defined
+// //fnlog(widdow);
